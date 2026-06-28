@@ -423,3 +423,6 @@ Benefits:
 HotSpot will provide a complete travel discovery ecosystem where users can discover hidden destinations, evaluate safety, plan routes, locate nearby facilities, and share travel experiences through a single integrated platform.
 
 The platform aims to transform how people discover and experience travel destinations by focusing on hidden gems rather than only popular tourist attractions.
+
+
+Deepak pun**
